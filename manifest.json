@@ -1,0 +1,17 @@
+{
+    "name": "Chrome Extenion",
+    "version": "1.0",
+    "discription": "Extension for ipl info ",
+    "manifest_version": 3,
+
+    "author": "Shivam Gupta",
+
+
+    "action":{
+        "defalut_popup": "index.html" 
+
+    }
+
+    
+
+}
